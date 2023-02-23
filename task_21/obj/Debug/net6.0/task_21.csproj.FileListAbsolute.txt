@@ -1,0 +1,15 @@
+C:\C# Homework\homeworks\task_21\bin\Debug\net6.0\task_21.exe
+C:\C# Homework\homeworks\task_21\bin\Debug\net6.0\task_21.deps.json
+C:\C# Homework\homeworks\task_21\bin\Debug\net6.0\task_21.runtimeconfig.json
+C:\C# Homework\homeworks\task_21\bin\Debug\net6.0\task_21.dll
+C:\C# Homework\homeworks\task_21\bin\Debug\net6.0\task_21.pdb
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.csproj.AssemblyReference.cache
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.AssemblyInfoInputs.cache
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.AssemblyInfo.cs
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.csproj.CoreCompileInputs.cache
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.dll
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\refint\task_21.dll
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.pdb
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\task_21.genruntimeconfig.cache
+C:\C# Homework\homeworks\task_21\obj\Debug\net6.0\ref\task_21.dll
