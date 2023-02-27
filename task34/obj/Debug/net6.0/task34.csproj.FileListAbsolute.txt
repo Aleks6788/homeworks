@@ -1,0 +1,15 @@
+C:\C# Homework\homeworks\task34\bin\Debug\net6.0\task34.exe
+C:\C# Homework\homeworks\task34\bin\Debug\net6.0\task34.deps.json
+C:\C# Homework\homeworks\task34\bin\Debug\net6.0\task34.runtimeconfig.json
+C:\C# Homework\homeworks\task34\bin\Debug\net6.0\task34.dll
+C:\C# Homework\homeworks\task34\bin\Debug\net6.0\task34.pdb
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.csproj.AssemblyReference.cache
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.AssemblyInfoInputs.cache
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.AssemblyInfo.cs
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.csproj.CoreCompileInputs.cache
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.dll
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\refint\task34.dll
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.pdb
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\task34.genruntimeconfig.cache
+C:\C# Homework\homeworks\task34\obj\Debug\net6.0\ref\task34.dll
