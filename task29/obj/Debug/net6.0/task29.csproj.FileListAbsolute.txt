@@ -1,0 +1,15 @@
+C:\C# Homework\homeworks\task29\bin\Debug\net6.0\task29.exe
+C:\C# Homework\homeworks\task29\bin\Debug\net6.0\task29.deps.json
+C:\C# Homework\homeworks\task29\bin\Debug\net6.0\task29.runtimeconfig.json
+C:\C# Homework\homeworks\task29\bin\Debug\net6.0\task29.dll
+C:\C# Homework\homeworks\task29\bin\Debug\net6.0\task29.pdb
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.dll
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\refint\task29.dll
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.pdb
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\task29.genruntimeconfig.cache
+C:\C# Homework\homeworks\task29\obj\Debug\net6.0\ref\task29.dll
